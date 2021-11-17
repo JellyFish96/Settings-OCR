@@ -3,7 +3,6 @@
 Quick-Wifi 
 ==========
 
-![](/readmeimg/readmelogo.png?raw=true)
 
 ## TODO
 
